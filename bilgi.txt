@@ -1,2 +1,6 @@
 FTP User Name	FTP Password	FTP Host Name	FTP Port	
 if0_42411866	20192019zZz	ftpupload.net	21
+
+
+
+replit ortamında python3 << 'EOF' import ftplib, io ftp = ftplib... ile dosyaları oku düzenle kontrol et.
